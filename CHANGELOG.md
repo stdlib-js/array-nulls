@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-30)
+## Unreleased (2026-04-02)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`a467bf0`](https://github.com/stdlib-js/stdlib/commit/a467bf0083da8f346611e53a684a78212f76d426) - **chore:** fix typos and incorrect test values [(#11270)](https://github.com/stdlib-js/stdlib/pull/11270) _(by Philipp Burckhardt)_
 -   [`419efe1`](https://github.com/stdlib-js/stdlib/commit/419efe14ee9dfc8224b419864f9314614f27786b) - **feat:** add `array/nulls` _(by Athan Reines)_
 
 </details>
@@ -34,9 +35,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
